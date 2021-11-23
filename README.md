@@ -1,5 +1,5 @@
 # BiMix
-The code for Bi-Mix: Bidirectional Mixing for Domain Adaptive Nighttime Semantic Segmentation [arxiv]()
+The code for Bi-Mix: Bidirectional Mixing for Domain Adaptive Nighttime Semantic Segmentation [arxiv](https://arxiv.org/abs/2111.10339)
 
 Framework:
 ![image]( ./img/overview.jpg)
