@@ -47,7 +47,7 @@ Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE).
 * [GCMA](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/GCMA_UIoU-Sakaridis+Dai+Van_Gool-ICCV_19.pdf)
 * [DANNet](https://github.com/W-zx-Y/DANNet)
 * [AdaptSegNet](https://github.com/wasidennis/AdaptSegNet)
-* 
+
 ## Citation
 If you think this paper is useful for your research, please cite our paper:
 ```
