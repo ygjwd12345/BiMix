@@ -51,6 +51,12 @@ Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE).
 ## Citation
 If you think this paper is useful for your research, please cite our paper:
 ```
+@article{yang2021bi,
+  title={Bi-Mix: Bidirectional Mixing for Domain Adaptive Nighttime Semantic Segmentation},
+  author={Yang, Guanglei and Zhong, Zhun and Tang, Hao and Ding, Mingli and Sebe, Nicu and Ricci, Elisa},
+  journal={arXiv preprint arXiv:2111.10339},
+  year={2021}
+}
 ```
 ### Contact
 * Guanglei Yang (yangguanglei@hit.edu.cn)
